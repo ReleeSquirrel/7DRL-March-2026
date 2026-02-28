@@ -2,3 +2,6 @@
 .godot/
 *.translation
 /android/
+
+# Project ignores
+/exports/
