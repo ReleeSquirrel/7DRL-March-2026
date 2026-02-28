@@ -1,0 +1,15 @@
+[gd_scene format=3 uid="uid://bb3k6su8x8u81"]
+
+[node name="Main" type="Node" unique_id=1859427933]
+
+[node name="InputHandler" type="Node" parent="." unique_id=2115009877]
+
+[node name="Stage" type="Node2D" parent="." unique_id=1934186254]
+
+[node name="GUICanvas" type="CanvasLayer" parent="." unique_id=1392363989]
+
+[node name="GUI" type="Control" parent="GUICanvas" unique_id=653955553]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
